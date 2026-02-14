@@ -1,3 +1,6 @@
 Just go and check this amazing StackOverflow link 
 
 https://stackoverflow.com/questions/76402958/azure-data-factory-linked-service-to-c-drive
+
+ cd "C:\Program Files\Microsoft Integration Runtime\5.0\Shared\"
+ .\dmgcmd.exe -DisableLocalFolderPathValidation
